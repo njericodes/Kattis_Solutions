@@ -2,7 +2,7 @@ package programming_challenges;
 
 import java.util.Scanner;
 
-public class permutationencryption_260588566{
+public class permutationencryption{
 	
 	public static void main(String[] args){
 		

@@ -2,7 +2,7 @@ package programming_challenges;
 
 import java.util.Scanner;
 
-public class orders_260588566{
+public class orders{
 	public static void main(String[] args){
 		Scanner in = new Scanner(System.in);
 		

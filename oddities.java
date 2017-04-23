@@ -2,7 +2,7 @@ package programming_challenges;
 
 import java.util.Scanner;
 
-public class oddities_260588566{
+public class oddities{
 
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);

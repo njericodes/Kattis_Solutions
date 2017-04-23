@@ -1,7 +1,7 @@
 package programming_challenges;
 import java.util.Scanner;
 
-public class easiest_260588566{
+public class easiest{
 
 	public static void main(String [] args){
 		Scanner input = new Scanner(System.in);

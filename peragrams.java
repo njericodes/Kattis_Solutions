@@ -2,7 +2,7 @@ package programming_challenges;
 
 import java.util.Scanner;
 
-public class peragrams_260588566{
+public class peragrams{
 	
 	public static void main(String[] args){
 		

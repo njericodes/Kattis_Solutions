@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class icanguessthedatastructure_260588566{
+public class icanguessthedatastructure{
 
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
